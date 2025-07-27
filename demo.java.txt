@@ -1,4 +1,6 @@
 class Demo{
+int a=2;
+String s="teja";
  public static void main(String[]
  args)
 
